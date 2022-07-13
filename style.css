@@ -1,0 +1,11 @@
+*{
+    background-color: mediumblue;
+    }
+
+.main{
+    padding-top: 250px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+text-align: center;
+    }
